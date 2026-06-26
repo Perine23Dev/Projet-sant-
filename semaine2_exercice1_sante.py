@@ -1,7 +1,7 @@
 # ============================================================
 # AKIENI ACADEMY — Projet Sante Publique
 # Semaine 2 — Exercice 1 : Fiche Patient CHU Brazzaville
-# Votre nom : ______________________________
+# Votre nom : _____NGOMA IKAMA ROSY PERINE_________________________
 # Date      : 08/01/2026
 # ============================================================
 
